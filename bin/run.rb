@@ -1,5 +1,5 @@
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
+'Hashie'
+'Sinatra'
+'Octokit'
+
+require_relative '../config/environment'
